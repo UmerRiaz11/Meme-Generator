@@ -5,3 +5,11 @@
     flex-direction: column;
     width:40%;
 }
+
+.boxes{
+    height:100px;
+    width:100px;
+    border: 2px solid red;
+    display: inline-block;
+    margin-left: 2px;
+}
